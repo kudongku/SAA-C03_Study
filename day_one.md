@@ -1,6 +1,3 @@
-# SAA-C03_Study
-AWS SAA-C03 자격증 공부에 관한 내용입니다.
-
 ### 정리
 
 1. S3 버킷에 최대한 빨리 데이터 집계 ⇒ S3 Transfer acceleration
